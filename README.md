@@ -1,5 +1,5 @@
 ---
-title: "Khalifah"
+title: "Beranda Khalifah"
 ---
 
 [beranda](/) >
